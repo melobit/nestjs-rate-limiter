@@ -1,0 +1,12 @@
+{
+    "default":{
+        "server": "https://apiv4.pimlb.cyou/", 
+        "select_language_at_start": false,
+        "telegram_login_bot": "melobot",
+        "ux_cam_token": "x0sc47dugpd2dph",
+        "sentry_dsn":"https://97bfa71559be591e3e5a41ced3cb86e1@sentry.pimlb.cyou/2",
+        "keep_playing_state":{"enabled":true, "minimum_sec":30, "minimum_percent":33},
+        "contact_us":{"telegram":"https://t.me/melobitr"},
+        "accepted_country_codes":["IR"]
+    }
+}
