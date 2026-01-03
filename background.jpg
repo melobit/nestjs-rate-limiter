@@ -1,6 +1,6 @@
 {
     "default":{
-        "server": "https://apiv4.pimlb.cyou/", 
+        "server": "https://apiv4.verstyle.ir/", 
         "select_language_at_start": false,
         "telegram_login_bot": "melobot",
         "ux_cam_token": "x0sc47dugpd2dph",
